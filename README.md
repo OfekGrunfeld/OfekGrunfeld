@@ -1,6 +1,6 @@
 <h3 align="center">Hi I'm Ofek 👋</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfekGrunfeld&theme=radical&layout=compact)](https://github.com/OfekGrunfeld/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OfekGrunfeld&theme=radical&layout=compact)]
 
 ## My Github Stats
 
